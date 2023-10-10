@@ -3,4 +3,5 @@ some code
 study book
 attend classes on time
 visit aunt.
-apply for remote jobs
+apply for remote jobs.
+pratice code
