@@ -12,3 +12,4 @@ check exam schedule
 git today
 learn commit 
 lear git and github
+hello
