@@ -9,3 +9,6 @@ complete intership task
 pratice chess opening
 solve chess puzzles
 check exam schedule
+git today
+learn commit 
+lear git and github
